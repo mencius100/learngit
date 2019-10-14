@@ -6,3 +6,4 @@ for i in range(10):
 		Git has a mutable index called stage.
 		Git tracks changes of files.
 		Creating a new branch is quick.
+		Craating a new branch ia quick AND simple.
